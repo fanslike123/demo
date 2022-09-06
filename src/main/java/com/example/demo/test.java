@@ -12,5 +12,7 @@ public class test {
 
         System.out.println("hot-fix commit");
         System.out.println("aaa");
+
+        System.out.println("fasjfa");
     }
 }
