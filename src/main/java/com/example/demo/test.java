@@ -8,5 +8,6 @@ public class test {
         System.out.println("second");
         System.out.println("master");
         System.out.println("host-fix ");
+        System.out.println("master commit");
     }
 }
