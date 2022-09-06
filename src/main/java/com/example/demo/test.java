@@ -7,5 +7,7 @@ public class test {
         System.out.println("first");
         System.out.println("second");
         System.out.println("host-fix ");
+
+        System.out.println("hot-fix commit");
     }
 }
